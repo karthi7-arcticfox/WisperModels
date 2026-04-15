@@ -1,13 +1,15 @@
 {
   "models": [
     {
-      "modelName": "Small",
-      "modelUrl": "https://github.com/your-repo/path/to/small-model.bin",
+      "modelName": "Standard",
+      "fileName": "ggml-small-q8_0.bin",
+      "modelUrl": "https://github.com/karthi7-arcticfox/WisperModels/releases/download/v.1.0.0/ggml-small-q8_0.bin",
       "lastModified": "2026-04-15T10:00:00Z"
     },
     {
-      "modelName": "Medium",
-      "modelUrl": "https://github.com/your-repo/path/to/medium-model.bin",
+      "modelName": "Accurate",
+      "fileName": "ggml-medium-q8_0.bin",
+      "modelUrl": "https://github.com/karthi7-arcticfox/WisperModels/releases/download/v.1.0.0/ggml-medium-q8_0.bin",
       "lastModified": "2026-04-15T10:05:00Z"
     }
   ]
