@@ -1,0 +1,14 @@
+{
+  "models": [
+    {
+      "modelName": "Small",
+      "modelUrl": "https://github.com/your-repo/path/to/small-model.bin",
+      "lastModified": "2026-04-15T10:00:00Z"
+    },
+    {
+      "modelName": "Medium",
+      "modelUrl": "https://github.com/your-repo/path/to/medium-model.bin",
+      "lastModified": "2026-04-15T10:05:00Z"
+    }
+  ]
+}
